@@ -1,4 +1,4 @@
-console.log("This is toturial 37");
+ console.log("This is toturial 37");
 
 // pretend tat this response coming from server
 const students = [
@@ -29,3 +29,4 @@ let newStudent = {name:"Sunny", subject:"Python"};
 
 enrollStudent(newStudent,getStudents);
 // getStudents();
+
